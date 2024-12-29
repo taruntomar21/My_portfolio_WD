@@ -1,1 +1,6 @@
-# My_portfolio_WD
+my portfolio website 
+
+Technologies used...
+HTML5
+CSS
+JavaScript
