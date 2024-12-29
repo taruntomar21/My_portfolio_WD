@@ -1,0 +1,85 @@
+.image0{
+	height: 130px;
+	width: 130px;
+	border-radius: 25%;
+	margin: 25px;
+	box-shadow: 5px;
+}
+
+.my_projects{
+	text-align: center;
+}
+
+#resume_div {
+	height: 900px;
+	width: auto;
+	/*position: relative;
+	top: 50px;
+	left: 150px;*/
+
+	text-align: center;
+}
+
+.resume_image{
+	height: 900px;
+	width: auto;
+	text-align: center;
+}
+
+/*.tarun_twitter{
+	color: rgba(29, 161, 242, 1.0);
+}
+.tarun_instagram{
+	color: rgba(233, 89, 80, 1.0);
+}
+.tarun_linkedin{
+	color: rgba(7, 98, 200, 1.0);
+}*/
+
+.button1 {
+  border-radius: 4px;
+  background-color: rgba(150 , 75 , 0 , 1);
+  
+/*  text-align: center;*/
+/*  width: auto;*/
+}
+.button span{
+	color: white;
+}
+.button1:hover {
+  border-radius: 4px;
+  background-color: white;
+/*  text-align: center;*/
+/*  width: auto;*/
+}
+
+.button1 span:hover{
+	color: rgba(150 , 75 , 0 , 1);
+/*	width: auto;*/
+}
+.button_section{
+	position: absolute;
+	left: 50%;
+	width: auto;
+}
+
+.pp_section{
+	margin-top:0;
+	height:300px;
+	width:40%;
+	background-color: whitesmoke;
+	border-radius: 10px;
+	box-shadow: 3px 3px 3px grey;
+}
+	
+.pp_section:hover {
+	box-shadow: 10px 10px 7px grey;
+}
+
+#app_image{
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	height:60%;
+	width:100%;
+	
+}
